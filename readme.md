@@ -1,5 +1,4 @@
 # GGPN
----
 Source code for "Multi-Relational Graph Representation Learning with Bayesian Gaussian Process Network"
 
 ## prepare
