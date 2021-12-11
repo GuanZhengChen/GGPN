@@ -1,6 +1,6 @@
-##
+GGPN: The implementation of Graph Gaussian Process Network
 
-#prepare
+# prepare
 ./preprocess.sh
 
 
